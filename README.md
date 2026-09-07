@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0053-maximum-subarray) |
 | [0890-find-and-replace-pattern](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0918-maximum-sum-circular-subarray) |
+| [1408-string-matching-in-an-array](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1408-string-matching-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0890-find-and-replace-pattern) |
+| [1408-string-matching-in-an-array](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1408-string-matching-in-an-array) |
 ## String Matching
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1408-string-matching-in-an-array) |
 ## Z Algorithm
 |  |
 | ------- |
