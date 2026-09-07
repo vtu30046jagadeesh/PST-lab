@@ -28,4 +28,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0008-string-to-integer-atoi) |
+| [0459-repeated-substring-pattern](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0459-repeated-substring-pattern) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
