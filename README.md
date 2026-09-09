@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0347-top-k-frequent-elements) |
 | [0890-find-and-replace-pattern](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0918-maximum-sum-circular-subarray) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0890-find-and-replace-pattern) |
 ## Sliding Window
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -115,4 +119,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1920-build-array-from-permutation) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
