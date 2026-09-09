@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1920-build-array-from-permutation) |
+| [2418-sort-the-people](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1360-number-of-days-between-two-dates) |
 | [1408-string-matching-in-an-array](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1408-string-matching-in-an-array) |
+| [2418-sort-the-people](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/2418-sort-the-people) |
 ## String Matching
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0890-find-and-replace-pattern) |
+| [2418-sort-the-people](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0977-squares-of-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/2418-sort-the-people) |
 ## Prefix Sum
 |  |
 | ------- |
