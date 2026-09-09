@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0918-maximum-sum-circular-subarray) |
 | [1408-string-matching-in-an-array](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1408-string-matching-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0905-sort-array-by-parity) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
