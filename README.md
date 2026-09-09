@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0053-maximum-subarray) |
 | [0890-find-and-replace-pattern](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0905-sort-array-by-parity) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0796-rotate-string) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0890-find-and-replace-pattern) |
 ## Sliding Window
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0049-group-anagrams) |
 | [0905-sort-array-by-parity](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
