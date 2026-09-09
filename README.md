@@ -141,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1154-day-of-the-year](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1154-day-of-the-year) |
+| [1185-day-of-the-week](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1185-day-of-the-week) |
 | [1360-number-of-days-between-two-dates](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1360-number-of-days-between-two-dates) |
 <!---LeetCode Topics End-->
