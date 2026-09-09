@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0890-find-and-replace-pattern) |
+| [1360-number-of-days-between-two-dates](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1360-number-of-days-between-two-dates) |
 | [1408-string-matching-in-an-array](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1408-string-matching-in-an-array) |
 ## String Matching
 |  |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [1360-number-of-days-between-two-dates](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1360-number-of-days-between-two-dates) |
 <!---LeetCode Topics End-->
