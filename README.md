@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0918-maximum-sum-circular-subarray) |
 | [1408-string-matching-in-an-array](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
