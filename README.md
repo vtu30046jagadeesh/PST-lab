@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0347-top-k-frequent-elements) |
+| [0867-transpose-matrix](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0918-maximum-sum-circular-subarray) |
@@ -129,10 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/vtu30046jagadeesh/PST-lab/tree/master/1920-build-array-from-permutation) |
 ## Heap (Priority Queue)
 |  |
